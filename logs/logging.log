@@ -1,1 +1,138 @@
-[2025-08-27 16:53:00,431: INFO: Welcome to our custom logging data science]
+[2025-08-28 21:22:19,598: INFO: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-08-28 21:22:19,598: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-28 21:22:19,601: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-28 21:22:19,602: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-28 21:22:19,602: INFO: created directory at: artifacts]
+[2025-08-28 21:22:19,602: INFO: created directory at: artifacts/data_ingestion]
+[2025-08-28 21:22:19,715: INFO: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 23329
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "c69888a4ae59bc5a893392785a938ccd4937981c06ba8a9d6a21aa52b4ab5b6e"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B8EB:19D3BD:0847:14AE:68B0BA45
+Accept-Ranges: bytes
+Date: Thu, 28 Aug 2025 20:22:19 GMT
+Via: 1.1 varnish
+X-Served-By: cache-lhr-egll1980052-LHR
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1756412540.748042,VS0,VE1
+Vary: Authorization,Accept-Encoding
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b1dd2fdf4fa2e06dc466831de28ab98abe714a1c
+Expires: Thu, 28 Aug 2025 20:27:19 GMT
+Source-Age: 54
+
+]
+[2025-08-28 21:22:19,718: INFO: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-08-29 12:38:36,001: INFO: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-08-29 12:38:36,002: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 12:38:36,004: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 12:38:36,005: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 12:38:36,005: INFO: created directory at: artifacts]
+[2025-08-29 12:38:36,005: INFO: created directory at: artifacts/data_ingestion]
+[2025-08-29 12:38:36,005: INFO: File already exists]
+[2025-08-29 12:38:36,006: INFO: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-08-29 12:39:24,238: INFO: >>>>>> stage : Data Ingestion stage started <<<<<<]
+[2025-08-29 12:39:24,239: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 12:39:24,240: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 12:39:24,240: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 12:39:24,240: INFO: created directory at: artifacts]
+[2025-08-29 12:39:24,240: INFO: created directory at: artifacts/data_ingestion]
+[2025-08-29 12:39:24,240: INFO: File already exists]
+[2025-08-29 12:39:24,241: INFO: >>>>>> stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-08-29 12:39:33,844: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-08-29 12:39:33,845: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 12:39:33,845: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 12:39:33,845: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 12:39:33,845: INFO: created directory at: artifacts]
+[2025-08-29 12:39:33,845: INFO: created directory at: artifacts/data_ingestion]
+[2025-08-29 12:39:33,845: INFO: File already exists]
+[2025-08-29 12:39:33,847: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-08-29 14:03:45,390: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:03:45,395: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:03:45,398: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:03:45,399: INFO: created directory at: artifacts]
+[2025-08-29 14:04:54,045: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:04:54,046: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:04:54,050: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:04:54,050: INFO: created directory at: artifacts]
+[2025-08-29 14:07:46,975: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:07:46,977: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:07:46,980: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:07:46,980: INFO: created directory at: artifacts]
+[2025-08-29 14:07:46,981: INFO: created directory at: artifacts/data_validation]
+[2025-08-29 14:10:46,143: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:10:46,147: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:10:46,150: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:10:46,151: INFO: created directory at: artifacts]
+[2025-08-29 14:10:46,152: INFO: created directory at: artifacts/data_validation]
+[2025-08-29 14:11:33,451: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:11:33,453: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:11:33,456: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:11:33,457: INFO: created directory at: artifacts]
+[2025-08-29 14:11:33,457: INFO: created directory at: artifacts/data_validation]
+[2025-08-29 14:13:22,606: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:13:22,609: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:13:22,613: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:13:22,615: INFO: created directory at: artifacts]
+[2025-08-29 14:13:22,617: INFO: created directory at: artifacts/data_validation]
+[2025-08-29 14:23:54,238: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:23:54,244: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:23:54,246: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:23:54,248: INFO: created directory at: artifacts]
+[2025-08-29 14:23:54,249: INFO: created directory at: artifacts/data_validation]
+[2025-08-29 14:24:08,226: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:24:08,227: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:24:08,230: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:24:08,231: INFO: created directory at: artifacts]
+[2025-08-29 14:24:08,231: INFO: created directory at: artifacts/data_validation]
+[2025-08-29 14:24:21,353: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:24:21,355: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:24:21,356: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:24:21,357: INFO: created directory at: artifacts]
+[2025-08-29 14:24:21,358: INFO: created directory at: artifacts/data_validation]
+[2025-08-29 14:25:56,541: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:25:56,543: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:25:56,544: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:25:56,545: INFO: created directory at: artifacts]
+[2025-08-29 14:25:56,545: INFO: created directory at: artifacts/data_validation]
+[2025-08-29 14:27:36,797: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 14:27:36,800: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 14:27:36,802: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 14:27:36,802: INFO: created directory at: artifacts]
+[2025-08-29 14:27:36,803: INFO: created directory at: artifacts/data_validation]
+[2025-08-29 15:44:39,517: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-08-29 15:44:39,518: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 15:44:39,520: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 15:44:39,521: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 15:44:39,522: INFO: created directory at: artifacts]
+[2025-08-29 15:44:39,522: INFO: created directory at: artifacts/data_ingestion]
+[2025-08-29 15:44:39,522: INFO: File already exists]
+[2025-08-29 15:44:39,523: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-08-29 15:44:39,523: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-08-29 15:44:39,524: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-08-29 15:44:39,524: INFO: yaml file: params.yaml loaded successfully]
+[2025-08-29 15:44:39,525: INFO: yaml file: schema.yaml loaded successfully]
+[2025-08-29 15:44:39,526: INFO: created directory at: artifacts]
+[2025-08-29 15:44:39,526: INFO: created directory at: artifacts/data_validation]
+[2025-08-29 15:44:39,529: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
