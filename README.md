@@ -4,7 +4,7 @@
 
 1. Data Ingestion - schema.yaml and params.yaml are not required in data ingestion step
 2. Data Validation
-3. Data Transofromation
+3. Data Transformation -- EDA, Data Preprocessing, Feature Engineering
 4. Model Trainer
 5. Model Evaluation
 
