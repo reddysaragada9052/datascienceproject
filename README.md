@@ -6,7 +6,7 @@
 2. Data Validation
 3. Data Transformation -- EDA, Data Preprocessing, Feature Engineering
 4. Model Trainer
-5. Model Evaluation
+5. Model Evaluation - MLFlow(Experiment tracking), Dagshub(remote repo to track each and everythin)
 
 ## Workflows
 
