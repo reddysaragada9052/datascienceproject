@@ -14,5 +14,5 @@ Flask
 Flask-Cors
 
 
-#/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/bin/pip install mlflow==2.2.2
+#pip install mlflow==2.2.2
 
