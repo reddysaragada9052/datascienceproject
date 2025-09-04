@@ -451,3 +451,879 @@ x==========x]
 [2025-08-30 18:17:12,852: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
 
 x==========x]
+[2025-09-03 15:13:18,115: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:13:18,123: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:13:18,140: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:13:18,167: INFO: created directory at: artifacts]
+[2025-09-03 15:18:49,657: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:18:49,660: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:18:49,663: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:18:49,667: INFO: created directory at: artifacts]
+[2025-09-03 15:21:35,558: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:21:35,565: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:21:35,567: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:21:35,569: INFO: created directory at: artifacts]
+[2025-09-03 15:26:28,112: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:26:28,121: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:26:28,123: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:26:28,125: INFO: created directory at: artifacts]
+[2025-09-03 15:29:53,310: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:29:53,334: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:29:53,336: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:29:53,338: INFO: created directory at: artifacts]
+[2025-09-03 15:29:53,338: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 15:30:53,402: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:30:53,404: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:30:53,407: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:30:53,408: INFO: created directory at: artifacts]
+[2025-09-03 15:30:53,410: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 15:41:51,864: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:41:51,871: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:41:51,873: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:41:51,875: INFO: created directory at: artifacts]
+[2025-09-03 15:41:51,876: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 15:42:56,702: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:42:56,703: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:42:56,705: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:42:56,705: INFO: created directory at: artifacts]
+[2025-09-03 15:42:56,705: INFO: created directory at: artifacts/model_trainer]
+[2025-09-03 15:44:40,859: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:44:40,861: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:44:40,863: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:44:40,864: INFO: created directory at: artifacts]
+[2025-09-03 15:44:40,866: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 15:47:47,626: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:47:47,632: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:47:47,634: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:47:47,635: INFO: created directory at: artifacts]
+[2025-09-03 15:47:47,636: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 15:48:17,866: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:48:17,867: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:48:17,869: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:48:17,870: INFO: created directory at: artifacts]
+[2025-09-03 15:48:17,870: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 15:50:54,414: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-03 15:50:54,417: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:50:54,417: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:50:54,419: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:50:54,419: INFO: created directory at: artifacts]
+[2025-09-03 15:50:54,419: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-03 15:50:54,419: INFO: File already exists]
+[2025-09-03 15:50:54,421: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-03 15:50:54,421: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-03 15:50:54,423: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:50:54,423: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:50:54,424: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:50:54,424: INFO: created directory at: artifacts]
+[2025-09-03 15:50:54,424: INFO: created directory at: artifacts/data_validation]
+[2025-09-03 15:50:54,427: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-03 15:50:54,427: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-03 15:50:54,430: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:50:54,430: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:50:54,431: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:50:54,431: INFO: created directory at: artifacts]
+[2025-09-03 15:50:54,431: INFO: created directory at: artifacts/data_transformation]
+[2025-09-03 15:50:54,440: INFO: Splitting data into training and test data sets]
+[2025-09-03 15:50:54,440: INFO: (1199, 12)]
+[2025-09-03 15:50:54,440: INFO: (400, 12)]
+[2025-09-03 15:50:54,440: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-03 15:50:54,440: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-03 15:50:54,442: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:50:54,442: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:50:54,443: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:50:54,444: INFO: created directory at: artifacts]
+[2025-09-03 15:50:54,444: INFO: created directory at: artifacts/model_trainer]
+[2025-09-03 15:50:54,446: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-03 15:51:16,054: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:51:16,056: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:51:16,058: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:51:16,059: INFO: created directory at: artifacts]
+[2025-09-03 15:51:16,061: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 15:53:41,552: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-03 15:53:41,554: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:53:41,554: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:53:41,555: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:53:41,556: INFO: created directory at: artifacts]
+[2025-09-03 15:53:41,556: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-03 15:53:41,556: INFO: File already exists]
+[2025-09-03 15:53:41,557: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-03 15:53:41,557: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-03 15:53:41,559: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:53:41,559: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:53:41,560: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:53:41,560: INFO: created directory at: artifacts]
+[2025-09-03 15:53:41,560: INFO: created directory at: artifacts/data_validation]
+[2025-09-03 15:53:41,563: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-03 15:53:41,563: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-03 15:53:41,566: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:53:41,566: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:53:41,567: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:53:41,568: INFO: created directory at: artifacts]
+[2025-09-03 15:53:41,568: INFO: created directory at: artifacts/data_transformation]
+[2025-09-03 15:53:41,577: INFO: Splitting data into training and test data sets]
+[2025-09-03 15:53:41,577: INFO: (1199, 12)]
+[2025-09-03 15:53:41,577: INFO: (400, 12)]
+[2025-09-03 15:53:41,577: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-03 15:53:41,577: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-03 15:53:41,579: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:53:41,579: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:53:41,580: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:53:41,580: INFO: created directory at: artifacts]
+[2025-09-03 15:53:41,581: INFO: created directory at: artifacts/model_trainer]
+[2025-09-03 15:53:41,587: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-03 15:53:55,653: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:53:55,655: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:53:55,659: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:53:55,660: INFO: created directory at: artifacts]
+[2025-09-03 15:53:55,661: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 15:55:54,633: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 15:55:54,635: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 15:55:54,637: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 15:55:54,638: INFO: created directory at: artifacts]
+[2025-09-03 15:55:54,640: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:00:45,051: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:00:45,057: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:00:45,060: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:00:45,062: INFO: created directory at: artifacts]
+[2025-09-03 16:00:45,062: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:00:45,420: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:01:02,960: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:01:02,962: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:01:02,965: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:01:02,965: INFO: created directory at: artifacts]
+[2025-09-03 16:01:02,966: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:01:03,255: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:01:46,455: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:01:46,457: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:01:46,459: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:01:46,460: INFO: created directory at: artifacts]
+[2025-09-03 16:01:46,462: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:01:46,734: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:03:18,725: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:03:18,727: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:03:18,731: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:03:18,731: INFO: created directory at: artifacts]
+[2025-09-03 16:03:18,732: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:03:19,004: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:06:21,409: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:06:21,414: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:06:21,416: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:06:21,418: INFO: created directory at: artifacts]
+[2025-09-03 16:06:21,421: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:06:22,283: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:09:42,818: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:09:42,821: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:09:42,824: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:09:42,825: INFO: created directory at: artifacts]
+[2025-09-03 16:09:42,826: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:09:43,074: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:11:07,624: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:11:07,626: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:11:07,630: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:11:07,631: INFO: created directory at: artifacts]
+[2025-09-03 16:11:07,632: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:11:07,926: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:14:52,842: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:14:52,848: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:14:52,850: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:14:52,852: INFO: created directory at: artifacts]
+[2025-09-03 16:14:52,852: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:14:53,128: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:15:42,908: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:15:42,911: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:15:42,915: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:15:42,916: INFO: created directory at: artifacts]
+[2025-09-03 16:15:42,917: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:15:43,164: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:17:23,858: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:17:23,861: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:17:23,863: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:17:23,865: INFO: created directory at: artifacts]
+[2025-09-03 16:17:23,867: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:17:24,131: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:21:02,780: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:21:02,784: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:21:02,787: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:21:02,788: INFO: created directory at: artifacts]
+[2025-09-03 16:21:02,790: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:21:03,345: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:27:32,367: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:27:32,372: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:27:32,374: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:27:32,375: INFO: created directory at: artifacts]
+[2025-09-03 16:27:32,376: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:31:31,700: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:31:31,704: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:31:31,709: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:31:31,711: INFO: created directory at: artifacts]
+[2025-09-03 16:31:31,711: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:31:58,095: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:31:58,096: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:31:58,100: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:31:58,101: INFO: created directory at: artifacts]
+[2025-09-03 16:31:58,101: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:31:58,380: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:37:55,523: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:37:55,528: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:37:55,530: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:37:55,532: INFO: created directory at: artifacts]
+[2025-09-03 16:37:55,533: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:37:55,884: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:38:36,018: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:38:36,020: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:38:36,023: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:38:36,024: INFO: created directory at: artifacts]
+[2025-09-03 16:38:36,026: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:38:36,281: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:59:25,659: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:59:25,665: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:59:25,668: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:59:25,669: INFO: created directory at: artifacts]
+[2025-09-03 16:59:25,670: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:59:26,260: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 16:59:39,292: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 16:59:39,293: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 16:59:39,294: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 16:59:39,295: INFO: created directory at: artifacts]
+[2025-09-03 16:59:39,295: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 16:59:39,523: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 17:00:18,466: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 17:00:18,468: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 17:00:18,470: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 17:00:18,471: INFO: created directory at: artifacts]
+[2025-09-03 17:00:18,472: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 17:00:18,762: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 17:02:09,460: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 17:02:09,473: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 17:02:09,475: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 17:02:09,477: INFO: created directory at: artifacts]
+[2025-09-03 17:02:09,478: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 17:02:09,776: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 17:03:30,876: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 17:03:30,881: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 17:03:30,886: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 17:03:30,888: INFO: created directory at: artifacts]
+[2025-09-03 17:03:30,891: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 17:03:31,336: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 17:04:46,262: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 17:04:46,271: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 17:04:46,273: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 17:04:46,274: INFO: created directory at: artifacts]
+[2025-09-03 17:04:46,276: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 17:04:46,646: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 20:45:58,975: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-03 20:45:58,978: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 20:45:58,979: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 20:45:58,980: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 20:45:58,980: INFO: created directory at: artifacts]
+[2025-09-03 20:45:58,980: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-03 20:45:58,980: INFO: File already exists]
+[2025-09-03 20:45:58,983: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-03 20:45:58,983: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-03 20:45:58,985: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 20:45:58,985: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 20:45:58,987: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 20:45:58,987: INFO: created directory at: artifacts]
+[2025-09-03 20:45:58,987: INFO: created directory at: artifacts/data_validation]
+[2025-09-03 20:45:58,995: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-03 20:45:58,995: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-03 20:45:58,997: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 20:45:58,998: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 20:45:58,998: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 20:45:58,999: INFO: created directory at: artifacts]
+[2025-09-03 20:45:58,999: INFO: created directory at: artifacts/data_transformation]
+[2025-09-03 20:45:59,014: INFO: Splitting data into training and test data sets]
+[2025-09-03 20:45:59,014: INFO: (1199, 12)]
+[2025-09-03 20:45:59,014: INFO: (400, 12)]
+[2025-09-03 20:45:59,014: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-03 20:45:59,014: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-03 20:45:59,016: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 20:45:59,016: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 20:45:59,017: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 20:45:59,017: INFO: created directory at: artifacts]
+[2025-09-03 20:45:59,017: INFO: created directory at: artifacts/model_trainer]
+[2025-09-03 20:45:59,030: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-03 20:46:46,683: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 20:46:46,686: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 20:46:46,687: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 20:46:46,688: INFO: created directory at: artifacts]
+[2025-09-03 20:46:46,689: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 20:46:47,342: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-03 20:49:17,004: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-03 20:49:17,011: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-03 20:49:17,013: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-03 20:49:17,013: INFO: created directory at: artifacts]
+[2025-09-03 20:49:17,014: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-03 20:49:17,773: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-04 01:34:24,681: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-04 01:34:24,683: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 01:34:24,684: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 01:34:24,685: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 01:34:24,686: INFO: created directory at: artifacts]
+[2025-09-04 01:34:24,686: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-04 01:34:24,686: INFO: File already exists]
+[2025-09-04 01:34:24,690: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-04 01:34:24,690: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-04 01:34:24,692: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 01:34:24,692: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 01:34:24,692: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 01:34:24,693: INFO: created directory at: artifacts]
+[2025-09-04 01:34:24,693: INFO: created directory at: artifacts/data_validation]
+[2025-09-04 01:34:24,696: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 01:34:24,696: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-04 01:34:24,697: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 01:34:24,697: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 01:34:24,698: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 01:34:24,698: INFO: created directory at: artifacts]
+[2025-09-04 01:34:24,698: INFO: created directory at: artifacts/data_transformation]
+[2025-09-04 01:34:24,759: INFO: Splitting data into training and test data sets]
+[2025-09-04 01:34:24,759: INFO: (1199, 12)]
+[2025-09-04 01:34:24,759: INFO: (400, 12)]
+[2025-09-04 01:34:24,759: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 01:34:24,759: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-04 01:34:24,761: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 01:34:24,770: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 01:34:24,780: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 01:34:24,781: INFO: created directory at: artifacts]
+[2025-09-04 01:34:24,782: INFO: created directory at: artifacts/model_trainer]
+[2025-09-04 01:34:24,805: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-04 01:34:24,805: INFO: >>>>>> Stage : Model Evaluation Stage started <<<<<<]
+[2025-09-04 01:34:24,805: ERROR: 'ModelEvaluationTrainingPipeline' object has no attribute 'initiate_model_training']
+Traceback (most recent call last):
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/main.py", line 55, in <module>
+    model_trainer.initiate_model_training()
+AttributeError: 'ModelEvaluationTrainingPipeline' object has no attribute 'initiate_model_training'
+[2025-09-04 01:40:32,191: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-04 01:40:32,192: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 01:40:32,194: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 01:40:32,195: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 01:40:32,195: INFO: created directory at: artifacts]
+[2025-09-04 01:40:32,195: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-04 01:40:32,195: INFO: File already exists]
+[2025-09-04 01:40:32,197: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-04 01:40:32,197: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-04 01:40:32,198: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 01:40:32,198: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 01:40:32,199: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 01:40:32,199: INFO: created directory at: artifacts]
+[2025-09-04 01:40:32,199: INFO: created directory at: artifacts/data_validation]
+[2025-09-04 01:40:32,203: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 01:40:32,203: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-04 01:40:32,204: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 01:40:32,205: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 01:40:32,205: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 01:40:32,205: INFO: created directory at: artifacts]
+[2025-09-04 01:40:32,205: INFO: created directory at: artifacts/data_transformation]
+[2025-09-04 01:40:32,215: INFO: Splitting data into training and test data sets]
+[2025-09-04 01:40:32,215: INFO: (1199, 12)]
+[2025-09-04 01:40:32,215: INFO: (400, 12)]
+[2025-09-04 01:40:32,215: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 01:40:32,215: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-04 01:40:32,217: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 01:40:32,217: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 01:40:32,218: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 01:40:32,218: INFO: created directory at: artifacts]
+[2025-09-04 01:40:32,218: INFO: created directory at: artifacts/model_trainer]
+[2025-09-04 01:40:32,229: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-04 01:40:32,229: INFO: >>>>>> Stage : Model Evaluation Stage started <<<<<<]
+[2025-09-04 01:40:32,229: ERROR: 'ModelEvaluationTrainingPipeline' object has no attribute 'initiate_model_training']
+Traceback (most recent call last):
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/main.py", line 55, in <module>
+    model_trainer.initiate_model_training()
+AttributeError: 'ModelEvaluationTrainingPipeline' object has no attribute 'initiate_model_training'. Did you mean: 'initiate_model_evaluation'?
+[2025-09-04 02:26:01,902: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-04 02:26:01,904: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:26:01,906: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:26:01,907: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:26:01,907: INFO: created directory at: artifacts]
+[2025-09-04 02:26:01,907: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-04 02:26:01,907: INFO: File already exists]
+[2025-09-04 02:26:01,910: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:26:01,910: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-04 02:26:01,911: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:26:01,912: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:26:01,913: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:26:01,913: INFO: created directory at: artifacts]
+[2025-09-04 02:26:01,913: INFO: created directory at: artifacts/data_validation]
+[2025-09-04 02:26:01,922: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:26:01,922: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-04 02:26:01,923: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:26:01,924: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:26:01,924: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:26:01,925: INFO: created directory at: artifacts]
+[2025-09-04 02:26:01,925: INFO: created directory at: artifacts/data_transformation]
+[2025-09-04 02:26:01,936: INFO: Splitting data into training and test data sets]
+[2025-09-04 02:26:01,936: INFO: (1199, 12)]
+[2025-09-04 02:26:01,937: INFO: (400, 12)]
+[2025-09-04 02:26:01,937: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:26:01,937: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-04 02:26:01,938: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:26:01,938: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:26:01,939: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:26:01,939: INFO: created directory at: artifacts]
+[2025-09-04 02:26:01,939: INFO: created directory at: artifacts/model_trainer]
+[2025-09-04 02:26:01,955: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:26:01,964: INFO: >>>>>> Stage : Model Evaluation Stage started <<<<<<]
+[2025-09-04 02:26:01,983: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:26:01,983: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:26:01,985: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:26:01,985: INFO: created directory at: artifacts]
+[2025-09-04 02:26:01,986: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-04 02:26:02,088: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-04 02:26:04,207: ERROR: No module named 'distutils._modified']
+Traceback (most recent call last):
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/main.py", line 55, in <module>
+    model_evaluation_config.initiate_model_evaluation()
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/src/datascience/pipeline/model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation.log_into_mlflow()
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/src/datascience/components/model_evaluation.py", line 56, in log_into_mlflow
+    mlflow.sklearn.log_model(model,"model")
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/sklearn/__init__.py", line 424, in log_model
+    return Model.log(
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/models/model.py", line 552, in log
+    mlflow.tracking.fluent.log_artifacts(local_path, mlflow_model.artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/fluent.py", line 817, in log_artifacts
+    MlflowClient().log_artifacts(run_id, local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/client.py", line 1069, in log_artifacts
+    self._tracking_client.log_artifacts(run_id, local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/_tracking_service/client.py", line 448, in log_artifacts
+    self._get_artifact_repo(run_id).log_artifacts(local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 58, in log_artifacts
+    dir_util.copy_tree(src=local_dir, dst=artifact_dir, preserve_mode=0, preserve_times=0)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/dir_util.py", line 150, in copy_tree
+    return list(itertools.chain.from_iterable(map(copy_one, names)))
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/dir_util.py", line 192, in _copy_one
+    file_util.copy_file(
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/file_util.py", line 104, in copy_file
+    from distutils._modified import newer
+ModuleNotFoundError: No module named 'distutils._modified'
+[2025-09-04 02:28:39,606: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-04 02:28:39,610: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:28:39,612: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:28:39,613: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:28:39,614: INFO: created directory at: artifacts]
+[2025-09-04 02:28:39,614: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-04 02:28:39,614: INFO: File already exists]
+[2025-09-04 02:28:39,616: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:28:39,616: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-04 02:28:39,617: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:28:39,617: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:28:39,618: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:28:39,618: INFO: created directory at: artifacts]
+[2025-09-04 02:28:39,618: INFO: created directory at: artifacts/data_validation]
+[2025-09-04 02:28:39,624: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:28:39,625: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-04 02:28:39,626: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:28:39,626: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:28:39,627: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:28:39,627: INFO: created directory at: artifacts]
+[2025-09-04 02:28:39,627: INFO: created directory at: artifacts/data_transformation]
+[2025-09-04 02:28:39,637: INFO: Splitting data into training and test data sets]
+[2025-09-04 02:28:39,637: INFO: (1199, 12)]
+[2025-09-04 02:28:39,637: INFO: (400, 12)]
+[2025-09-04 02:28:39,637: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:28:39,637: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-04 02:28:39,638: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:28:39,638: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:28:39,639: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:28:39,639: INFO: created directory at: artifacts]
+[2025-09-04 02:28:39,639: INFO: created directory at: artifacts/model_trainer]
+[2025-09-04 02:28:39,650: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:28:39,650: INFO: >>>>>> Stage : Model Evaluation Stage started <<<<<<]
+[2025-09-04 02:28:39,651: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:28:39,651: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:28:39,652: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:28:39,652: INFO: created directory at: artifacts]
+[2025-09-04 02:28:39,652: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-04 02:28:39,748: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-04 02:28:41,893: ERROR: No module named 'distutils._modified']
+Traceback (most recent call last):
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/main.py", line 55, in <module>
+    model_evaluation_config.initiate_model_evaluation()
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/src/datascience/pipeline/model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation.log_into_mlflow()
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/src/datascience/components/model_evaluation.py", line 56, in log_into_mlflow
+    mlflow.sklearn.log_model(model,"model")
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/sklearn/__init__.py", line 424, in log_model
+    return Model.log(
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/models/model.py", line 552, in log
+    mlflow.tracking.fluent.log_artifacts(local_path, mlflow_model.artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/fluent.py", line 817, in log_artifacts
+    MlflowClient().log_artifacts(run_id, local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/client.py", line 1069, in log_artifacts
+    self._tracking_client.log_artifacts(run_id, local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/_tracking_service/client.py", line 448, in log_artifacts
+    self._get_artifact_repo(run_id).log_artifacts(local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 58, in log_artifacts
+    dir_util.copy_tree(src=local_dir, dst=artifact_dir, preserve_mode=0, preserve_times=0)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/dir_util.py", line 150, in copy_tree
+    return list(itertools.chain.from_iterable(map(copy_one, names)))
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/dir_util.py", line 192, in _copy_one
+    file_util.copy_file(
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/file_util.py", line 104, in copy_file
+    from distutils._modified import newer
+ModuleNotFoundError: No module named 'distutils._modified'
+[2025-09-04 02:30:33,977: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-04 02:30:33,979: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:30:33,981: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:30:33,982: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:30:33,982: INFO: created directory at: artifacts]
+[2025-09-04 02:30:33,982: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-04 02:30:33,982: INFO: File already exists]
+[2025-09-04 02:30:33,984: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:30:33,984: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-04 02:30:33,985: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:30:33,985: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:30:33,986: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:30:33,986: INFO: created directory at: artifacts]
+[2025-09-04 02:30:33,986: INFO: created directory at: artifacts/data_validation]
+[2025-09-04 02:30:33,994: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:30:33,994: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-04 02:30:33,995: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:30:33,995: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:30:33,996: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:30:33,996: INFO: created directory at: artifacts]
+[2025-09-04 02:30:33,996: INFO: created directory at: artifacts/data_transformation]
+[2025-09-04 02:30:34,006: INFO: Splitting data into training and test data sets]
+[2025-09-04 02:30:34,006: INFO: (1199, 12)]
+[2025-09-04 02:30:34,006: INFO: (400, 12)]
+[2025-09-04 02:30:34,006: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:30:34,006: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-04 02:30:34,007: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:30:34,007: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:30:34,008: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:30:34,008: INFO: created directory at: artifacts]
+[2025-09-04 02:30:34,008: INFO: created directory at: artifacts/model_trainer]
+[2025-09-04 02:30:34,018: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-04 02:30:34,019: INFO: >>>>>> Stage : Model Evaluation Stage started <<<<<<]
+[2025-09-04 02:30:34,020: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 02:30:34,020: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 02:30:34,021: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 02:30:34,021: INFO: created directory at: artifacts]
+[2025-09-04 02:30:34,021: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-04 02:30:34,107: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-04 02:30:36,103: ERROR: No module named 'distutils._modified']
+Traceback (most recent call last):
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/main.py", line 55, in <module>
+    model_evaluation_config.initiate_model_evaluation()
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/src/datascience/pipeline/model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation.log_into_mlflow()
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/src/datascience/components/model_evaluation.py", line 56, in log_into_mlflow
+    mlflow.sklearn.log_model(model,"model")
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/sklearn/__init__.py", line 424, in log_model
+    return Model.log(
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/models/model.py", line 552, in log
+    mlflow.tracking.fluent.log_artifacts(local_path, mlflow_model.artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/fluent.py", line 817, in log_artifacts
+    MlflowClient().log_artifacts(run_id, local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/client.py", line 1069, in log_artifacts
+    self._tracking_client.log_artifacts(run_id, local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/_tracking_service/client.py", line 448, in log_artifacts
+    self._get_artifact_repo(run_id).log_artifacts(local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 58, in log_artifacts
+    dir_util.copy_tree(src=local_dir, dst=artifact_dir, preserve_mode=0, preserve_times=0)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/dir_util.py", line 150, in copy_tree
+    return list(itertools.chain.from_iterable(map(copy_one, names)))
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/dir_util.py", line 192, in _copy_one
+    file_util.copy_file(
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/file_util.py", line 104, in copy_file
+    from distutils._modified import newer
+ModuleNotFoundError: No module named 'distutils._modified'
+[2025-09-04 10:21:09,177: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-04 10:21:09,178: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 10:21:09,181: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 10:21:09,182: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 10:21:09,182: INFO: created directory at: artifacts]
+[2025-09-04 10:21:09,182: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-04 10:21:09,182: INFO: File already exists]
+[2025-09-04 10:21:09,184: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-04 10:21:09,184: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-04 10:21:09,185: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 10:21:09,185: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 10:21:09,186: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 10:21:09,186: INFO: created directory at: artifacts]
+[2025-09-04 10:21:09,186: INFO: created directory at: artifacts/data_validation]
+[2025-09-04 10:21:09,192: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 10:21:09,192: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-04 10:21:09,194: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 10:21:09,194: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 10:21:09,195: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 10:21:09,195: INFO: created directory at: artifacts]
+[2025-09-04 10:21:09,195: INFO: created directory at: artifacts/data_transformation]
+[2025-09-04 10:21:09,206: INFO: Splitting data into training and test data sets]
+[2025-09-04 10:21:09,206: INFO: (1199, 12)]
+[2025-09-04 10:21:09,206: INFO: (400, 12)]
+[2025-09-04 10:21:09,206: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 10:21:09,206: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-04 10:21:09,207: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 10:21:09,208: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 10:21:09,208: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 10:21:09,208: INFO: created directory at: artifacts]
+[2025-09-04 10:21:09,208: INFO: created directory at: artifacts/model_trainer]
+[2025-09-04 10:21:09,223: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-04 10:21:09,223: INFO: >>>>>> Stage : Model Evaluation Stage started <<<<<<]
+[2025-09-04 10:21:09,224: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 10:21:09,224: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 10:21:09,225: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 10:21:09,225: INFO: created directory at: artifacts]
+[2025-09-04 10:21:09,225: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-04 10:21:09,302: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-04 10:21:11,648: ERROR: No module named 'distutils._modified']
+Traceback (most recent call last):
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/main.py", line 59, in <module>
+    model_evaluation_config.initiate_model_evaluation()
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/src/datascience/pipeline/model_evaluation_pipeline.py", line 15, in initiate_model_evaluation
+    model_evaluation.log_into_mlflow()
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/src/datascience/components/model_evaluation.py", line 56, in log_into_mlflow
+    mlflow.sklearn.log_model(model,"model")
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/sklearn/__init__.py", line 424, in log_model
+    return Model.log(
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/models/model.py", line 552, in log
+    mlflow.tracking.fluent.log_artifacts(local_path, mlflow_model.artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/fluent.py", line 817, in log_artifacts
+    MlflowClient().log_artifacts(run_id, local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/client.py", line 1069, in log_artifacts
+    self._tracking_client.log_artifacts(run_id, local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/tracking/_tracking_service/client.py", line 448, in log_artifacts
+    self._get_artifact_repo(run_id).log_artifacts(local_dir, artifact_path)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/mlflow/store/artifact/local_artifact_repo.py", line 58, in log_artifacts
+    dir_util.copy_tree(src=local_dir, dst=artifact_dir, preserve_mode=0, preserve_times=0)
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/dir_util.py", line 150, in copy_tree
+    return list(itertools.chain.from_iterable(map(copy_one, names)))
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/dir_util.py", line 192, in _copy_one
+    file_util.copy_file(
+  File "/Users/reddysaragada/Desktop/KrishNaik/datascienceproject/venv/lib/python3.10/site-packages/setuptools/_distutils/file_util.py", line 104, in copy_file
+    from distutils._modified import newer
+ModuleNotFoundError: No module named 'distutils._modified'
+[2025-09-04 10:39:52,472: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-04 10:39:52,477: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 10:39:52,479: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 10:39:52,480: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 10:39:52,481: INFO: created directory at: artifacts]
+[2025-09-04 10:39:52,481: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-04 10:39:52,481: INFO: File already exists]
+[2025-09-04 10:39:52,483: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-04 10:39:52,483: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-04 10:39:52,484: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 10:39:52,484: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 10:39:52,485: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 10:39:52,485: INFO: created directory at: artifacts]
+[2025-09-04 10:39:52,485: INFO: created directory at: artifacts/data_validation]
+[2025-09-04 10:39:52,492: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 10:39:52,493: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-04 10:39:52,494: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 10:39:52,494: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 10:39:52,495: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 10:39:52,495: INFO: created directory at: artifacts]
+[2025-09-04 10:39:52,495: INFO: created directory at: artifacts/data_transformation]
+[2025-09-04 10:39:52,506: INFO: Splitting data into training and test data sets]
+[2025-09-04 10:39:52,506: INFO: (1199, 12)]
+[2025-09-04 10:39:52,506: INFO: (400, 12)]
+[2025-09-04 10:39:52,507: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 10:39:52,507: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-04 10:39:52,508: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 10:39:52,508: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 10:39:52,509: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 10:39:52,509: INFO: created directory at: artifacts]
+[2025-09-04 10:39:52,509: INFO: created directory at: artifacts/model_trainer]
+[2025-09-04 10:39:52,520: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-04 10:39:52,520: INFO: >>>>>> Stage : Model Evaluation Stage started <<<<<<]
+[2025-09-04 10:39:52,522: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 10:39:52,522: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 10:39:52,522: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 10:39:52,523: INFO: created directory at: artifacts]
+[2025-09-04 10:39:52,523: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-04 10:39:52,608: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-04 10:39:54,578: INFO: copying /var/folders/pv/0_8bhc_s69b4xnkjhj52yskw0000gn/T/tmpaxkbz5df/model/python_env.yaml -> /Users/reddysaragada/Desktop/KrishNaik/datascienceproject/mlruns/0/48f46fff5288497c96d2f1bf1f002f32/artifacts/model]
+[2025-09-04 10:39:54,579: INFO: copying /var/folders/pv/0_8bhc_s69b4xnkjhj52yskw0000gn/T/tmpaxkbz5df/model/requirements.txt -> /Users/reddysaragada/Desktop/KrishNaik/datascienceproject/mlruns/0/48f46fff5288497c96d2f1bf1f002f32/artifacts/model]
+[2025-09-04 10:39:54,579: INFO: copying /var/folders/pv/0_8bhc_s69b4xnkjhj52yskw0000gn/T/tmpaxkbz5df/model/MLmodel -> /Users/reddysaragada/Desktop/KrishNaik/datascienceproject/mlruns/0/48f46fff5288497c96d2f1bf1f002f32/artifacts/model]
+[2025-09-04 10:39:54,579: INFO: copying /var/folders/pv/0_8bhc_s69b4xnkjhj52yskw0000gn/T/tmpaxkbz5df/model/model.pkl -> /Users/reddysaragada/Desktop/KrishNaik/datascienceproject/mlruns/0/48f46fff5288497c96d2f1bf1f002f32/artifacts/model]
+[2025-09-04 10:39:54,579: INFO: copying /var/folders/pv/0_8bhc_s69b4xnkjhj52yskw0000gn/T/tmpaxkbz5df/model/conda.yaml -> /Users/reddysaragada/Desktop/KrishNaik/datascienceproject/mlruns/0/48f46fff5288497c96d2f1bf1f002f32/artifacts/model]
+[2025-09-04 10:39:54,581: INFO: >>>>>> Stage : Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2025-09-04 11:04:34,490: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-04 11:04:34,492: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 11:04:34,495: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 11:04:34,496: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 11:04:34,496: INFO: created directory at: artifacts]
+[2025-09-04 11:04:34,496: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-04 11:04:34,496: INFO: File already exists]
+[2025-09-04 11:04:34,498: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-04 11:04:34,498: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-04 11:04:34,500: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 11:04:34,500: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 11:04:34,501: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 11:04:34,501: INFO: created directory at: artifacts]
+[2025-09-04 11:04:34,501: INFO: created directory at: artifacts/data_validation]
+[2025-09-04 11:04:34,507: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 11:04:34,507: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-04 11:04:34,508: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 11:04:34,508: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 11:04:34,509: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 11:04:34,509: INFO: created directory at: artifacts]
+[2025-09-04 11:04:34,509: INFO: created directory at: artifacts/data_transformation]
+[2025-09-04 11:04:34,520: INFO: Splitting data into training and test data sets]
+[2025-09-04 11:04:34,521: INFO: (1199, 12)]
+[2025-09-04 11:04:34,521: INFO: (400, 12)]
+[2025-09-04 11:04:34,521: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 11:04:34,521: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-04 11:04:34,522: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 11:04:34,522: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 11:04:34,523: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 11:04:34,523: INFO: created directory at: artifacts]
+[2025-09-04 11:04:34,523: INFO: created directory at: artifacts/model_trainer]
+[2025-09-04 11:04:34,538: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-04 11:04:34,538: INFO: >>>>>> Stage : Model Evaluation Stage started <<<<<<]
+[2025-09-04 11:04:34,539: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 11:04:34,539: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 11:04:34,540: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 11:04:34,540: INFO: created directory at: artifacts]
+[2025-09-04 11:04:34,540: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-04 11:04:34,625: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-04 11:04:36,635: INFO: copying /var/folders/pv/0_8bhc_s69b4xnkjhj52yskw0000gn/T/tmp9375fqwn/model/python_env.yaml -> /Users/reddysaragada/Desktop/KrishNaik/datascienceproject/mlruns/0/afca0338b9a74cf29c380b3b298f27cb/artifacts/model]
+[2025-09-04 11:04:36,635: INFO: copying /var/folders/pv/0_8bhc_s69b4xnkjhj52yskw0000gn/T/tmp9375fqwn/model/requirements.txt -> /Users/reddysaragada/Desktop/KrishNaik/datascienceproject/mlruns/0/afca0338b9a74cf29c380b3b298f27cb/artifacts/model]
+[2025-09-04 11:04:36,635: INFO: copying /var/folders/pv/0_8bhc_s69b4xnkjhj52yskw0000gn/T/tmp9375fqwn/model/MLmodel -> /Users/reddysaragada/Desktop/KrishNaik/datascienceproject/mlruns/0/afca0338b9a74cf29c380b3b298f27cb/artifacts/model]
+[2025-09-04 11:04:36,635: INFO: copying /var/folders/pv/0_8bhc_s69b4xnkjhj52yskw0000gn/T/tmp9375fqwn/model/model.pkl -> /Users/reddysaragada/Desktop/KrishNaik/datascienceproject/mlruns/0/afca0338b9a74cf29c380b3b298f27cb/artifacts/model]
+[2025-09-04 11:04:36,636: INFO: copying /var/folders/pv/0_8bhc_s69b4xnkjhj52yskw0000gn/T/tmp9375fqwn/model/conda.yaml -> /Users/reddysaragada/Desktop/KrishNaik/datascienceproject/mlruns/0/afca0338b9a74cf29c380b3b298f27cb/artifacts/model]
+[2025-09-04 11:04:36,638: INFO: >>>>>> Stage : Model Evaluation Stage completed <<<<<<
+
+x==========x]
+[2025-09-04 11:05:02,378: INFO: >>>>>> Stage : Data Ingestion stage started <<<<<<]
+[2025-09-04 11:05:02,384: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 11:05:02,386: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 11:05:02,387: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 11:05:02,387: INFO: created directory at: artifacts]
+[2025-09-04 11:05:02,387: INFO: created directory at: artifacts/data_ingestion]
+[2025-09-04 11:05:02,387: INFO: File already exists]
+[2025-09-04 11:05:02,389: INFO: >>>>>> Stage : Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-09-04 11:05:02,389: INFO: >>>>>> Stage : Data Validation stage started <<<<<<]
+[2025-09-04 11:05:02,391: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 11:05:02,391: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 11:05:02,392: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 11:05:02,393: INFO: created directory at: artifacts]
+[2025-09-04 11:05:02,393: INFO: created directory at: artifacts/data_validation]
+[2025-09-04 11:05:02,403: INFO: >>>>>> Stage : Data Validation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 11:05:02,403: INFO: >>>>>> Stage : Data Transformation stage started <<<<<<]
+[2025-09-04 11:05:02,405: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 11:05:02,405: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 11:05:02,406: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 11:05:02,407: INFO: created directory at: artifacts]
+[2025-09-04 11:05:02,407: INFO: created directory at: artifacts/data_transformation]
+[2025-09-04 11:05:02,419: INFO: Splitting data into training and test data sets]
+[2025-09-04 11:05:02,419: INFO: (1199, 12)]
+[2025-09-04 11:05:02,419: INFO: (400, 12)]
+[2025-09-04 11:05:02,419: INFO: >>>>>> Stage : Data Transformation stage completed <<<<<<
+
+x==========x]
+[2025-09-04 11:05:02,419: INFO: >>>>>> Stage : Model Training stage started <<<<<<]
+[2025-09-04 11:05:02,420: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 11:05:02,420: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 11:05:02,421: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 11:05:02,421: INFO: created directory at: artifacts]
+[2025-09-04 11:05:02,421: INFO: created directory at: artifacts/model_trainer]
+[2025-09-04 11:05:02,436: INFO: >>>>>> Stage : Model Training stage completed <<<<<<
+
+x==========x]
+[2025-09-04 11:05:02,436: INFO: >>>>>> Stage : Model Evaluation Stage started <<<<<<]
+[2025-09-04 11:05:02,438: INFO: yaml file: config/config.yaml loaded successfully]
+[2025-09-04 11:05:02,438: INFO: yaml file: params.yaml loaded successfully]
+[2025-09-04 11:05:02,439: INFO: yaml file: schema.yaml loaded successfully]
+[2025-09-04 11:05:02,439: INFO: created directory at: artifacts]
+[2025-09-04 11:05:02,439: INFO: created directory at: artifacts/model_evaluation]
+[2025-09-04 11:05:02,893: INFO: json file saved at: artifacts/model_evaluation/metrics.json]
+[2025-09-04 11:05:10,045: INFO: >>>>>> Stage : Model Evaluation Stage completed <<<<<<
+
+x==========x]
